@@ -50,20 +50,11 @@ export default function Footer() {
           <ul className="space-y-3">
             <li>
               <a
-                href="tel:+9779867331247"
-                className="flex items-center gap-2 transition-colors hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-pink-600"
-              >
-                <Phone className="h-4 w-4 shrink-0" />
-                +977 986-7331247
-              </a>
-            </li>
-            <li>
-              <a
                 href="mailto:ewbpulchowk@gmail.com"
                 className="flex items-center gap-2 transition-colors hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-pink-600"
               >
                 <Mail className="h-4 w-4 shrink-0" />
-                ewbpulchowk@gmail.com
+                ewb@pcampus.edu.np
               </a>
             </li>
             <li>
